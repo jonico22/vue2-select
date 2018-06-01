@@ -1,0 +1,30 @@
+{
+  "name": "vue2-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "prod": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonico22/vue2-select.git"
+  },
+  "author": "jonico22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonico22/vue2-select/issues"
+  },
+  "homepage": "https://github.com/jonico22/vue2-select#readme",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-multiselect": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.8.1",
+    "parcel-plugin-vue": "^1.5.0"
+  }
+}
